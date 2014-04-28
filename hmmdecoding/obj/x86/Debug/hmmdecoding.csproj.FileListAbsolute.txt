@@ -1,0 +1,82 @@
+C:\Users\lab301b-why\Documents\Visual Studio 2010\Projects\hmmdecoding\hmmdecoding\bin\Debug\hmmdecoding.exe
+C:\Users\lab301b-why\Documents\Visual Studio 2010\Projects\hmmdecoding\hmmdecoding\bin\Debug\hmmdecoding.pdb
+C:\Users\lab301b-why\Documents\Visual Studio 2010\Projects\hmmdecoding\hmmdecoding\bin\Debug\Accord.Statistics.dll
+C:\Users\lab301b-why\Documents\Visual Studio 2010\Projects\hmmdecoding\hmmdecoding\bin\Debug\Accord.Math.dll
+C:\Users\lab301b-why\Documents\Visual Studio 2010\Projects\hmmdecoding\hmmdecoding\bin\Debug\Accord.dll
+C:\Users\lab301b-why\Documents\Visual Studio 2010\Projects\hmmdecoding\hmmdecoding\bin\Debug\Accord.Statistics.pdb
+C:\Users\lab301b-why\Documents\Visual Studio 2010\Projects\hmmdecoding\hmmdecoding\bin\Debug\Accord.Statistics.xml
+C:\Users\lab301b-why\Documents\Visual Studio 2010\Projects\hmmdecoding\hmmdecoding\bin\Debug\Accord.Math.pdb
+C:\Users\lab301b-why\Documents\Visual Studio 2010\Projects\hmmdecoding\hmmdecoding\bin\Debug\Accord.Math.xml
+C:\Users\lab301b-why\Documents\Visual Studio 2010\Projects\hmmdecoding\hmmdecoding\bin\Debug\Accord.pdb
+C:\Users\lab301b-why\Documents\Visual Studio 2010\Projects\hmmdecoding\hmmdecoding\bin\Debug\Accord.xml
+C:\Users\lab301b-why\Documents\Visual Studio 2010\Projects\hmmdecoding\hmmdecoding\obj\x86\Debug\hmmdecoding.exe
+C:\Users\lab301b-why\Documents\Visual Studio 2010\Projects\hmmdecoding\hmmdecoding\obj\x86\Debug\hmmdecoding.pdb
+C:\Users\lab301b-why\Documents\Visual Studio 2010\Projects\hmmDancing\hmmdecoding\obj\x86\Debug\hmmdecoding.exe
+C:\Users\lab301b-why\Documents\Visual Studio 2010\Projects\hmmDancing\hmmdecoding\obj\x86\Debug\hmmdecoding.pdb
+C:\Users\lab301b-why\Documents\Visual Studio 2010\Projects\hmmDancing\hmmdecoding\bin\Debug\hmmdecoding.exe
+C:\Users\lab301b-why\Documents\Visual Studio 2010\Projects\hmmDancing\hmmdecoding\bin\Debug\hmmdecoding.pdb
+C:\Users\lab301b-why\Documents\Visual Studio 2010\Projects\hmmDancing\hmmdecoding\bin\Debug\Accord.Statistics.dll
+C:\Users\lab301b-why\Documents\Visual Studio 2010\Projects\hmmDancing\hmmdecoding\bin\Debug\AForge.dll
+C:\Users\lab301b-why\Documents\Visual Studio 2010\Projects\hmmDancing\hmmdecoding\bin\Debug\Accord.Math.dll
+C:\Users\lab301b-why\Documents\Visual Studio 2010\Projects\hmmDancing\hmmdecoding\bin\Debug\Accord.dll
+C:\Users\lab301b-why\Documents\Visual Studio 2010\Projects\hmmDancing\hmmdecoding\bin\Debug\AForge.Math.dll
+C:\Users\lab301b-why\Documents\Visual Studio 2010\Projects\hmmDancing\hmmdecoding\bin\Debug\Accord.Statistics.pdb
+C:\Users\lab301b-why\Documents\Visual Studio 2010\Projects\hmmDancing\hmmdecoding\bin\Debug\Accord.Statistics.xml
+C:\Users\lab301b-why\Documents\Visual Studio 2010\Projects\hmmDancing\hmmdecoding\bin\Debug\AForge.xml
+C:\Users\lab301b-why\Documents\Visual Studio 2010\Projects\hmmDancing\hmmdecoding\bin\Debug\Accord.Math.pdb
+C:\Users\lab301b-why\Documents\Visual Studio 2010\Projects\hmmDancing\hmmdecoding\bin\Debug\Accord.Math.xml
+C:\Users\lab301b-why\Documents\Visual Studio 2010\Projects\hmmDancing\hmmdecoding\bin\Debug\Accord.pdb
+C:\Users\lab301b-why\Documents\Visual Studio 2010\Projects\hmmDancing\hmmdecoding\bin\Debug\Accord.xml
+C:\Users\lab301b-why\Documents\Visual Studio 2010\Projects\hmmDancing\hmmdecoding\bin\Debug\AForge.Math.xml
+C:\Users\lab301b-why\Documents\Visual Studio 2010\Projects\hmmDancing\hmmdecoding\obj\x86\Debug\hmmdecoding.csprojResolveAssemblyReference.cache
+E:\why D\studio project backup\Projects\hmmDancing\hmmdecoding\obj\x86\Debug\hmmdecoding.exe
+E:\why D\studio project backup\Projects\hmmDancing\hmmdecoding\obj\x86\Debug\hmmdecoding.pdb
+E:\why D\studio project backup\Projects\hmmDancing\hmmdecoding\bin\Debug\hmmdecoding.exe
+E:\why D\studio project backup\Projects\hmmDancing\hmmdecoding\bin\Debug\hmmdecoding.pdb
+E:\why D\studio project backup\Projects\hmmDancing\hmmdecoding\bin\Debug\AForge.dll
+E:\why D\studio project backup\Projects\hmmDancing\hmmdecoding\bin\Debug\Accord.Math.dll
+E:\why D\studio project backup\Projects\hmmDancing\hmmdecoding\bin\Debug\Accord.dll
+E:\why D\studio project backup\Projects\hmmDancing\hmmdecoding\bin\Debug\AForge.Math.dll
+E:\why D\studio project backup\Projects\hmmDancing\hmmdecoding\bin\Debug\Accord.Statistics.pdb
+E:\why D\studio project backup\Projects\hmmDancing\hmmdecoding\bin\Debug\Accord.Statistics.xml
+E:\why D\studio project backup\Projects\hmmDancing\hmmdecoding\bin\Debug\AForge.xml
+E:\why D\studio project backup\Projects\hmmDancing\hmmdecoding\bin\Debug\Accord.Math.pdb
+E:\why D\studio project backup\Projects\hmmDancing\hmmdecoding\bin\Debug\Accord.Math.xml
+E:\why D\studio project backup\Projects\hmmDancing\hmmdecoding\bin\Debug\Accord.pdb
+E:\why D\studio project backup\Projects\hmmDancing\hmmdecoding\bin\Debug\Accord.xml
+E:\why D\studio project backup\Projects\hmmDancing\hmmdecoding\bin\Debug\AForge.Math.xml
+E:\why D\studio project backup\Projects\hmmDancing\hmmdecoding\obj\x86\Debug\hmmdecoding.csprojResolveAssemblyReference.cache
+C:\Users\why\SkyDrive\research_project\hmmDancing\hmmdecoding\obj\x86\Debug\hmmdecoding.exe
+C:\Users\why\SkyDrive\research_project\hmmDancing\hmmdecoding\obj\x86\Debug\hmmdecoding.pdb
+C:\Users\why\SkyDrive\research_project\hmmDancing\hmmdecoding\bin\Debug\hmmdecoding.exe
+C:\Users\why\SkyDrive\research_project\hmmDancing\hmmdecoding\bin\Debug\hmmdecoding.pdb
+C:\Users\why\SkyDrive\research_project\hmmDancing\hmmdecoding\bin\Debug\AForge.dll
+C:\Users\why\SkyDrive\research_project\hmmDancing\hmmdecoding\bin\Debug\Accord.Math.dll
+C:\Users\why\SkyDrive\research_project\hmmDancing\hmmdecoding\bin\Debug\Accord.dll
+C:\Users\why\SkyDrive\research_project\hmmDancing\hmmdecoding\bin\Debug\AForge.Math.dll
+C:\Users\why\SkyDrive\research_project\hmmDancing\hmmdecoding\bin\Debug\Accord.Statistics.pdb
+C:\Users\why\SkyDrive\research_project\hmmDancing\hmmdecoding\bin\Debug\Accord.Statistics.xml
+C:\Users\why\SkyDrive\research_project\hmmDancing\hmmdecoding\bin\Debug\AForge.xml
+C:\Users\why\SkyDrive\research_project\hmmDancing\hmmdecoding\bin\Debug\Accord.Math.pdb
+C:\Users\why\SkyDrive\research_project\hmmDancing\hmmdecoding\bin\Debug\Accord.Math.xml
+C:\Users\why\SkyDrive\research_project\hmmDancing\hmmdecoding\bin\Debug\Accord.pdb
+C:\Users\why\SkyDrive\research_project\hmmDancing\hmmdecoding\bin\Debug\Accord.xml
+C:\Users\why\SkyDrive\research_project\hmmDancing\hmmdecoding\bin\Debug\AForge.Math.xml
+C:\Users\why\SkyDrive\research_project\hmmDancing\hmmdecoding\obj\x86\Debug\hmmdecoding.csprojResolveAssemblyReference.cache
+E:\OneDrive\research_project\hmmDancing\hmmdecoding\obj\x86\Debug\hmmdecoding.exe
+E:\OneDrive\research_project\hmmDancing\hmmdecoding\obj\x86\Debug\hmmdecoding.pdb
+E:\OneDrive\research_project\hmmDancing\hmmdecoding\bin\Debug\hmmdecoding.exe
+E:\OneDrive\research_project\hmmDancing\hmmdecoding\bin\Debug\hmmdecoding.pdb
+E:\OneDrive\research_project\hmmDancing\hmmdecoding\bin\Debug\AForge.dll
+E:\OneDrive\research_project\hmmDancing\hmmdecoding\bin\Debug\Accord.Math.dll
+E:\OneDrive\research_project\hmmDancing\hmmdecoding\bin\Debug\Accord.dll
+E:\OneDrive\research_project\hmmDancing\hmmdecoding\bin\Debug\AForge.Math.dll
+E:\OneDrive\research_project\hmmDancing\hmmdecoding\bin\Debug\Accord.Statistics.pdb
+E:\OneDrive\research_project\hmmDancing\hmmdecoding\bin\Debug\Accord.Statistics.xml
+E:\OneDrive\research_project\hmmDancing\hmmdecoding\bin\Debug\AForge.xml
+E:\OneDrive\research_project\hmmDancing\hmmdecoding\bin\Debug\Accord.Math.pdb
+E:\OneDrive\research_project\hmmDancing\hmmdecoding\bin\Debug\Accord.Math.xml
+E:\OneDrive\research_project\hmmDancing\hmmdecoding\bin\Debug\Accord.pdb
+E:\OneDrive\research_project\hmmDancing\hmmdecoding\bin\Debug\Accord.xml
+E:\OneDrive\research_project\hmmDancing\hmmdecoding\bin\Debug\AForge.Math.xml
+E:\OneDrive\research_project\hmmDancing\hmmdecoding\obj\x86\Debug\hmmdecoding.csprojResolveAssemblyReference.cache
